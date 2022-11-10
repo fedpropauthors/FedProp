@@ -6,6 +6,8 @@ This repository contains the code necessary to reproduce the experiments from th
 
 ##  Data pre-processing:
 
+First install all necessary packages specified in requirements.txt.
+
 ### CIFAR-10
 Run the following command:
 
